@@ -1,5 +1,12 @@
 # SecTrainingData
 Data for training machine learning models related to bug bounty and pentesting.
+## Images Data
+- Images of webpages organized by prediction tagging
+- Images of VNC and RDP services (These will likely be two categories, normal ones with an expected login prompt and ones with no login or default username added)
+## Text Data
+Nothing there at this time, but I have to have data for the following scenarios.
+- Payloads for training attacks (SQLi, XSS, XXE, SSRF, Content brute forcing, Etc.)
+- Tool output logs for anomaly detection
 
 # Images Usage Guide
 ### 1. Create project at https://www.customvision.ai
