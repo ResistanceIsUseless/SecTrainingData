@@ -21,3 +21,4 @@ do
   --data-binary "@-" | jq '.predictions[0] | {tagName,probability} '
 done
 ```
+### 5. After you have done some predictions. You can go back to the portal and add tags to ones you recently sent to the API make your predictions better.
